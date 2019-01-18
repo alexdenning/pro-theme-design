@@ -1,4 +1,4 @@
-<p class="intro">According to the latest estimates, there are over 4 billion Internet users around the world and, well, it's a pretty safe bet that not all of them speak your site's native language, right?</p>
+<p class="intro">There are over 4 billion Internet users around the world and, well, it's a pretty safe bet that not all of them speak your site's native language, right?</p>
 
 That's important because most people want to visit websites and search in Google using their preferred language.
 
@@ -22,11 +22,11 @@ Consider this example…
 
 In English, the phrase "translate WordPress" gets about 2,000 Google searches per month:
 
-![Keyword Example](article-image:weglot/keyword-example-1.png)
+![Screenshot of an English search](article-image:weglot/keyword-example-1.png)
 
 That same simple phrase in Spanish - _traducir WordPress_ - gets almost 500 Google searches per month, with lower keyword difficulty:
 
-![Keyword Example](article-image:weglot/keyword-example-2.png)
+![Screenshot of a Spanish search](article-image:weglot/keyword-example-2.png)
 
 
 So just like that, you could get almost 25% more eyeballs on the same content (just in a different language). What would you do with 25% more traffic?
@@ -51,17 +51,17 @@ Here's your step-by-step guide to translate your WordPress site with Weglot…
 
 The Weglot plugin is listed at WordPress.org, so you can install it by going to **Plugins → Add New** and searching for _"Weglot"_:
 
-![Install Weglot](article-image:weglot/weglot-setup-guide-1.png)
+![Screenshot of installing the Weglot multilingual plugin](article-image:weglot/weglot-setup-guide-1.png)
 
 ### Step 2: Register Free Weglot Account And Add API Key To Plugin
 
 Once you've activated the plugin at your site, go to the Weglot registration page and create a free account. Wait for the activation email. Then, click the activation link to access the page that includes your **API key**:
 
-![Install Weglot](article-image:weglot/weglot-setup-guide-2.png)
+![Screenshot of installing the Weglot multilingual plugin](article-image:weglot/weglot-setup-guide-2.png)
 
 Copy the API key value. Then, go to the **Weglot** tab in your WordPress dashboard and paste the value into the **API Key** box:
 
-![Install Weglot](article-image:weglot/weglot-setup-guide-3.png)
+![Screenshot of installing the Weglot multilingual plugin](article-image:weglot/weglot-setup-guide-3.png)
 
 ### Step 3: Choose Original Language And Destination Language
 
@@ -80,11 +80,11 @@ Weglot will now automatically translate your content. Pretty easy so far, right?
 
 By default, Weglot adds a language switcher button that sticks to the bottom-right corner of your theme:
 
-![Install Weglot](article-image:weglot/weglot-setup-guide-5.png)
+![Screenshot of a WordPress language switcher](article-image:weglot/weglot-setup-guide-5.png)
 
 If you want to edit how the language switcher looks and functions, you can use the **Weglot** area in your WordPress dashboard:
 
-![Install Weglot](article-image:weglot/weglot-setup-guide-6.png)
+![Screenshot of the Weglot settings](article-image:weglot/weglot-setup-guide-6.png)
 
 ### How To Work With Your Translations (Including Translating Your Pro Theme Design Theme)
 
@@ -92,7 +92,7 @@ Once you've configured Weglot's basic settings in your WordPress dashboard, you 
 
 The main dashboard page gives you a summary of your site. Then, you can use the menu in the top-left corner to access your translations:
 
-![Install Weglot](article-image:weglot/weglot-setup-guide-7.png)
+![Screenshot of the Weglot admin](article-image:weglot/weglot-setup-guide-7.png)
 
 Weglot gives you two different ways to manage your translations.
 
@@ -108,11 +108,11 @@ With this editor, you'll see a list of the original content on the left and the 
 
 To edit a translation, just click and type. After you've made your changes, Weglot will mark the translation as "Human reviewed":
 
-![Install Weglot](article-image:weglot/weglot-setup-guide-9.png)
+![Screenshot of using the Weglot translations](article-image:weglot/weglot-setup-guide-9.png)
 
 If desired, you can also outsource translations to professional translators from this interface. The professional translation service starts at €0.08/word:
 
-![Install Weglot](article-image:weglot/weglot-setup-guide-9-1.png)
+![Screenshot of using the Weglot translations](article-image:weglot/weglot-setup-guide-9-1.png)
 
 Whenever you make a change in the Weglot cloud dashboard, Weglot will automatically sync your changes with your live WordPress site.
 
@@ -124,15 +124,15 @@ There are no extra steps to do this – it happens automatically.
 
 For example, look at the "Posted" theme text that [the Carmack theme](https://prothemedesign.com/theme/carmack/) uses on the blog archive list:
 
-![Install Weglot](article-image:weglot/weglot-setup-guide-10.png)
+![Screenshot of translations with the Carmack theme](article-image:weglot/weglot-setup-guide-10.png)
 
 That theme string shows up in the Weglot editor, where you can edit it just like other content:
 
-![Install Weglot](article-image:weglot/weglot-setup-guide-11.png)
+![Screenshot of translations with the Carmack theme](article-image:weglot/weglot-setup-guide-11.png)
 
 Or, you can also translate any theme content by clicking on it in the Visual Editor. For example, here's what it looks like to translate that same snippet with the Visual Editor:
 
-![Install Weglot](article-image:weglot/weglot-setup-guide-12.gif)
+![Screenshot of the Weglot visual translation editor](article-image:weglot/weglot-setup-guide-12.gif)
 
 Translate Your WordPress Website Today!
 If you want to reach a broader audience at your site, using a WordPress multi language plugin lets you connect with your visitors in their own preferred languages.
